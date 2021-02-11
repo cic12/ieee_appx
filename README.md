@@ -1,5 +1,11 @@
 # Appendix
 
+## Human Leg Muscles
+
+	fig_leg_muscles.png
+
+Muscles of the thigh segment of the human leg. Muscles targeted for muscle activity sensing are highlighted: a) Vastus Medialis -- VM, b) Rectus Femoris -- RF, c) Biceps Femoris -- BF, and d) Semitendinosus -- SE.
+
 ## Human Torque Prediction Datasets
 
 ### Test 1
