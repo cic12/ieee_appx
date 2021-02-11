@@ -6,6 +6,12 @@
 
 Muscles of the thigh segment of the human leg. Muscles targeted for muscle activity sensing are highlighted: a) Vastus Medialis -- VM, b) Rectus Femoris -- RF, c) Biceps Femoris -- BF, and d) Semitendinosus -- SE.
 
+## Dynamic Extension and Flexion Trajectories
+
+[fig_hte_traj.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_traj.pdf)
+
+Knee joint angle and velocity reference trajectories for low, medium, and high frequency repetitions of exercise 2: dynamic extension and flexion. During extension the joint angle increases from 0.2 rad to 1.2 rad and during flexion it decreases back to 0.2 rad.
+
 ## Human Torque Prediction Datasets
 
 ### Test 1
