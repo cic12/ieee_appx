@@ -12,9 +12,6 @@ Muscles of the thigh segment of the human leg. Muscles targeted for muscle activ
 
 [fig_hte_mmg_iso_dataset.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_mmg_iso_dataset.pdf)
 
-![alt text](https://github.com/cic12/ieee_appx/blob/main/fig_hte_mmg_iso_dataset.pdf "Test 1")
-
-
 Human torque prediction dataset for test 1, with processed MMG muscle activity, system states of knee joint angle, $\theta$, and angular velocity, $\dot{\theta}$, and reference human joint torque, $\tau_{\mathrm{ref}}$, recorded during exercise 1: isometric contraction.
 
 ### Test 2
