@@ -6,7 +6,7 @@
 
 Muscles of the thigh segment of the human leg. Muscles targeted for muscle activity sensing are highlighted: a) Vastus Medialis -- VM, b) Rectus Femoris -- RF, c) Biceps Femoris -- BF, and d) Semitendinosus -- SE.
 
-## Dynamic Extension and Flexion Trajectories
+## Dynamic Extension and Flexion Trajectories
 
 [fig_hte_traj.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_traj.pdf)
 
