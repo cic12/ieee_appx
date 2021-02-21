@@ -45,3 +45,9 @@ Human torque prediction dataset for test 4 with processed EMG muscle activity, s
 ## Neural Network Model Training Code
 
 [hte_model_nn_listing.py](https://github.com/cic12/ieee_appx/blob/main/hte_model_nn_listing.py)
+
+## Neural Network Training
+
+[fig_hte_nn_training.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training.pdf)
+
+Example neural network learning curve showing showing the metric of mean absolute error for the training and validation subsets for the full EMG dataset.
