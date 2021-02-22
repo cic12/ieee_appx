@@ -50,8 +50,6 @@ Human torque prediction dataset for test 4 with processed EMG muscle activity, s
 
 [fig_hte_nn_training_emg_all.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_emg_all.pdf)
 
-Neural network learning curve for the training and validation subsets of the full EMG dataset.
-
 [fig_hte_nn_training_mmg_all.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_mmg_all.pdf)
 
-Neural network learning curve for the training and validation subsets of the full MMG dataset.
+Neural network learning curves for the training and validation subsets of the full EMG and MMG datasets.
