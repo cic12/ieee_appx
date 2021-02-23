@@ -48,8 +48,16 @@ Human torque prediction dataset for test 4 with processed EMG muscle activity, s
 
 ## Neural Network Training
 
-[fig_hte_nn_training_emg_all.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_emg_all.pdf)
-
 [fig_hte_nn_training_mmg_all.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_mmg_all.pdf)
 
-Neural network learning curves for the training and validation subsets of the full EMG and MMG datasets.
+[fig_hte_nn_training_mmg_iso.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_mmg_iso.pdf)
+
+[fig_hte_nn_training_mmg_dyn.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_mmg_dyn.pdf)
+
+[fig_hte_nn_training_emg_all.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_emg_all.pdf)
+
+[fig_hte_nn_training_emg_iso.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_emg_iso.pdf)
+
+[fig_hte_nn_training_emg_dyn.pdf](https://github.com/cic12/ieee_appx/blob/main/fig_hte_nn_training_emg_dyn.pdf)
+
+Neural network learning curves for the training and validation subsets of the full EMG and MMG datasets (All), isometric exercise datasets (Iso), and dynamic exercise datasets (Dyn).
